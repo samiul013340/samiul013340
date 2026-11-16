@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**samiul013340/samiul013340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Samiul Hossain 👋
 
-Here are some ideas to get you started:
+### Aspiring Software Engineer | Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm learning programming and building projects
+to become a professional software engineer.
+
+### 🚀 Currently Learning
+- Python Programming
+- Data Structures & Algorithms
+- Git & GitHub
+- Web Development
+
+### 🛠️ Technologies
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+### 🎯 My Goals
+- Become a Software Engineer
+- Build real-world projects
+- Improve problem-solving skills
+- Learn Full-Stack Development
+
+### 📫 Connect With Me
+- GitHub: https://github.com/samiul013340
+- Facebook: https://facebook.com/samiul013340
+
+---
+⭐ Thanks for visiting my profile!
